@@ -1,0 +1,17 @@
+Package: SERB
+Type: Package
+Title: Síntesis de Explicaciones en Redes Bayesianas
+Version: 1.0.0
+Author: Bartomeu Ramis
+Maintainer: Bartomeu Ramis <bartomeuramis99@gmail.com>
+Description: A simple package that allows for the creation of Knowledge Bases from Bayesian Networks, their spacial optimisation and quering.
+License: /
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Imports:
+    dplyr, 
+    bnlearn 
+Depends: 
+    R (>= 2.10)
+    
